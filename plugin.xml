@@ -21,6 +21,12 @@
    			<php>
     			<min>5.3.0</min>
    			</php>
+   			<plugins>
+   				<plugin>
+   					<codename>riProduct</codename>
+					<min>1.0</min>		
+   				</plugin>
+   			</plugins>
    		</required>   		
 	</dependencies>
 	<changelog>
